@@ -1,0 +1,7 @@
+Git branch: specifies the branch of the current git repo
+
+Git branch branch name - creating a new branch
+
+HEAD responsible to reference the branch, it states which branch is open
+
+Git checkout branchname - to switch the branches 
